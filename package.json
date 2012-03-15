@@ -2,11 +2,12 @@
   "author": "Randy Merrill <Zoramite+node@gmail.com> (http://forthedeveloper.com)",
   "name": "winston-amon",
   "description": "Winston transport for Amon logging",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/emberfeather/winston-amon.git"
   },
+  "main": "./lib/winston-amon.js",
   "dependencies": {
     "winston": ">=0.5.10",
     "amon": ">=0.3.1"
