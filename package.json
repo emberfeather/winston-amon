@@ -7,7 +7,10 @@
     "type": "git",
     "url": "git://github.com/emberfeather/winston-amon.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "winston": ">=0.5.10",
+    "amon": ">=0.3.1"
+  },
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
