@@ -1,10 +1,8 @@
-h1. winston-amon
-
 An Amon transport for [winston][0].
 
-h2. Installation
+## Installation
 
-h3. Installing winston-amon
+### Installing winston-amon
 
 ``` bash
   $ sudo npm install winston-amon
